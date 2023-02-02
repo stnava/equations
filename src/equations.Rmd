@@ -1,8 +1,17 @@
 ---
+title: avants equations
 output: html_document
 ---
+
+### identity
 
 $$
 x=y
 $$
 
+
+### asymmetry
+
+$$
+asym(x_l,x_r)=|x_l-x_r|,~~~avg(x_l,x_r)=\frac{1}{2}(x_l+x_r)
+$$
